@@ -6,4 +6,3 @@ components:
   - ../../components/common
 resources:
   - ./longhorn/ks.yaml
-  - ./longhorn/httproute.yaml
